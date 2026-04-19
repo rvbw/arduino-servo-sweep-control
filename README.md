@@ -5,6 +5,8 @@ This project demonstrates the control of five servo motors using an Arduino. Ini
 
 The project is designed for beginners to understand servo motor control, PWM signals, and multi-motor coordination.
 
+![Photo](images/servo.png)
+
 ---
 
 ## Components
